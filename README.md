@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Stephane
-- 👀 I’m interested in FrontEnd development for now
-- 🌱 I’m currently learning CSS and Javascript
-- 💞️ I’m looking to collaborate on any CSS and Javascript project that can get my skill improved
+- 👀 I’m a frontend developper
+- 🌱 I’m currently learning django
+- 💞️ I’m looking to collaborate on any Javascript and django project that can get my skill improved
 - 📫 How to reach me : @distephano30 on twitter and my mail is distephano30@gmail.com
 
 <!---
